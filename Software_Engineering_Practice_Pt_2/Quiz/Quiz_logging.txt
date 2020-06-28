@@ -1,0 +1,14 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 2: Software Engineering Practices Pt II
+## Year: 2020
+## Sub-lesson: Quiz Logging 
+##===================================
+
+Question 1:
+What are some ways this log message could be improved? Select all that apply. 
+ERROR - Failed to compute product similarity. I made sure to fix the error from October so not sure why this would occur again. 
+
+Ans:
+- Add more details about this error, such as what step or product the program was on when this occured. 
+- Remove the second sentence
