@@ -4,3 +4,7 @@ This repository contains course material, codes, and other components for the [A
 # Software Engineering Practices Pt - 1  
 Quiz - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/Software_Engineering_Practice_Pt_1/Quiz)  
 Notebooks - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/Software_Engineering_Practice_Pt_1/Notebooks)  
+
+# Software Engineering Practices Pt - 2
+Quiz - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/Software_Engineering_Practice_Pt_2/Quiz)  
+PyTest Python test files - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/Software_Engineering_Practice_Pt_2/PyTest)  
