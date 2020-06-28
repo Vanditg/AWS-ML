@@ -1,0 +1,54 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 2: Software Engineering Practices Pt I
+## Year: 2020
+## Sub-lesson: Clean Code 
+##===================================
+
+Question 1:
+Imagine you are writing a program that executes a number of tasks and categorizes each task based on its execution time. 
+Below is a small snippet of this program. Which of the following naming changes could make this code cleaner?
+
+t = end_time - start  # compute execution time
+c = category(t)  # get category of task
+print('Task Duration: {} seconds, Category: {}'.format(t, c)
+
+Ans:
+- Rename the variable start to start_time to make it consistent with end_time
+- Rename the variable t to execution_time to make it more descriptive
+- Rename the function category to categorize_task to match the part of speech
+- Rename the variable c to category to make it more descriptive
+
+Question 2:
+Imagine you analyzed several stocks and calculated the ideal price, or limit price, 
+you'd want to buy each stock at. You write a program to iterate through your stocks and 
+buy it if the current price is below or equal to the limit price you computed. 
+Otherwise, you put it on a watchlist. Below are three ways of writing this code. 
+Which of the following is the most clean?
+
+# Choice A
+stock_limit_prices = {'LUX': 62.48, 'AAPL': 127.67, 'NVDA': 161.24}
+for stock_ticker, stock_limit_price in buy_prices.items():
+    if stock_limit_price <= get_current_stock_price(ticker):
+        buy_stock(ticker)
+    else:
+        watchlist_stock(ticker)
+		
+# Choice B
+prices = {'LUX': 62.48, 'AAPL': 127.67, 'NVDA': 161.24}
+for ticker, price in prices.items():
+    if price <= current_price(ticker):
+        buy(ticker)
+    else:
+        watchlist(ticker)
+		
+# Choice C
+limit_prices = {'LUX': 62.48, 'AAPL': 127.67, 'NVDA': 161.24}
+for ticker, limit in limit_prices.items():
+    if limit <= get_current_price(ticker):
+        buy(ticker)
+    else:
+        watchlist(ticker)
+
+Ans:
+Choice C

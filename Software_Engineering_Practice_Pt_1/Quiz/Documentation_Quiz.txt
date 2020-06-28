@@ -1,0 +1,14 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 2: Software Engineering Practices Pt I
+## Year: 2020
+## Sub-lesson: Documentation
+##===================================
+
+Question 1: Which of the following statements about in-line comments are true?
+- Comments are useful for clarifying complex code
+- Readable code is preferable over having comments to make your code readable 
+
+Question 2: Which of the following statements about docstrings are true?
+- Docstrings explain the purpose of a function or module 
+- You can add whatever details you want in a docstring
