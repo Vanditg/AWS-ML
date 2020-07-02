@@ -9,7 +9,7 @@ Question 1:
 How can Amazon SageMaker accelerate adoption of machine learning?
 
 Ans:
-SageMaker enables developers to quickly build ML. 
+- SageMaker enables developers to quickly build ML. 
 
 Question 2:
 Match the parts of the AWS ML Stack

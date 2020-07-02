@@ -1,0 +1,12 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 5: ML with AWS DeepComposer
+## Year: 2020
+## Sub-lesson: Quiz ML Techniques and Generative AI
+##===================================
+
+Question 1:
+Generative AI is usually an example of which type of Machine Learning?
+
+Ans:
+- Unsupervised Learning 
