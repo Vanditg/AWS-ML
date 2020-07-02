@@ -1,0 +1,23 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 2: Software Engineering Practices Pt II
+## Year: 2020
+## Sub-lesson: Quiz Characteristics versus Actions
+##===================================
+
+Question 1:
+Which of the following would you consider to be characteristics of a tree object?
+
+Ans:
+- Height
+- Color 
+- Width 
+- Species 
+
+Question 2:
+Which of the following would be considered actions for a laptop computer object?
+
+Ans:
+- To turn on 
+- To turn off 
+- To erase
