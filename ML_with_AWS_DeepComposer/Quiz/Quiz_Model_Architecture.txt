@@ -1,0 +1,35 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 5: ML with AWS DeepComposer
+## Year: 2020
+## Sub-lesson: Quiz Model Architecture
+##===================================
+
+Question 1:
+What is another term for the “discriminator” in a GAN?
+
+Ans:
+- Critic
+
+Question 2:
+Which attribute(s) does a discriminator judge?
+
+Ans:
+- Reality 
+
+Question 3:
+What would happen without “input noise”?
+
+Ans:
+- The same input would produce consistently similar output
+
+Question 4:
+Order the steps in U-Net Architecture. 
+
+Ans:
+ Order					Step
+- 1						Input
+- 2						Encoder
+- 3						Latent Spance
+- 4						Decoder 
+- 5						Output
