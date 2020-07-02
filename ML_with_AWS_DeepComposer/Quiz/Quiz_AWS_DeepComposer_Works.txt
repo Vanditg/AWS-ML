@@ -1,0 +1,18 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 5: ML with AWS DeepComposer
+## Year: 2020
+## Sub-lesson: Quiz AWS DeepComposer Works
+##===================================
+
+Question 1:
+True or False: Loss functions help us determine when to stop training a model.
+
+Ans: 
+- True
+
+Question 2:
+What does it mean when a loss function reaches convergence? 
+
+Ans:
+- The value of the function is stable over many epochs. 
