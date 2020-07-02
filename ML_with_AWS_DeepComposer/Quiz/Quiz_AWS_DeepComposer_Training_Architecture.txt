@@ -1,0 +1,18 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 5: ML with AWS DeepComposer
+## Year: 2020
+## Sub-lesson: Quiz AWS DeepComposer Training Architecture
+##===================================
+
+Question 1:
+True or False: We expect the Similarity Index to reach zero
+
+Ans:
+- False 
+
+Question 2:
+Why might we want to use more than one method to evaluate the quality of our model output?
+
+Ans:
+- To measure the quality of the generated music. 
