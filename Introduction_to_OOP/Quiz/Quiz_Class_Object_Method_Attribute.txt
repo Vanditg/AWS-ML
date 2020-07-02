@@ -1,0 +1,16 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 2: Introduction to OOP
+## Year: 2020
+## Sub-lesson: Quiz Class Object Method and Attribute 
+##===================================
+
+Question 1:
+Match the vocabulary term on the left with the examples on the right. 
+
+ Term			 Examples
+- Object		- Stephen Hawking, Angela Merkel, Brad Pitt 
+- Class			- Scientist, Chancellor, Actor 
+- Attribute		- Color, Size, Shape 
+- Method		- To rain, To ring, To ripen 
+- Value 		- Gray, Large, Round 
