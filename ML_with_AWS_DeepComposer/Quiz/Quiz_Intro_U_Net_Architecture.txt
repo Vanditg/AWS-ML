@@ -1,0 +1,12 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 5: ML with AWS DeepComposer
+## Year: 2020
+## Sub-lesson: Quiz Intro to U-net Architecture
+##===================================
+
+Question 1:
+Which of the following statements about the application with Bach-style model is incorrect?
+
+Ans:
+- The Generator is trained on realistic bach mausic to output new music piece. 
