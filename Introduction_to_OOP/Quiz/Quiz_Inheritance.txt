@@ -1,0 +1,14 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 2: Introduction to OOP
+## Year: 2020
+## Sub-lesson: Quiz Inheritance
+##===================================
+
+Question 1:
+Check the boxes next to the statements that are true.
+
+Ans:
+- Inheritance helps organize code with a more general version of a class and then specific children.
+- Inheritance can make object-oriented programs more efficient to write.
+- Updates to a parent class automatically trickle down to its children.
