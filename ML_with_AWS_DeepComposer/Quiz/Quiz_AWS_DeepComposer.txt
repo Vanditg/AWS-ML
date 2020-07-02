@@ -1,0 +1,24 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 5: ML with AWS DeepComposer
+## Year: 2020
+## Sub-lesson: Quiz AWS DeepComposer
+##===================================
+
+Question 1:
+Which of these are available as pre-trained genres in AWS DeepComposer?
+
+Ans:
+- Jazz
+- Pop
+- Rock
+- Symphony 
+
+Question 2:
+Which model is responsible for each of these roles in Generative AI?
+
+Ans: 
+ Role										Model
+- Evaluates the quality of output			Discriminator 
+- Creating new output						Generator 
+- Providing feedback						Discriminator
