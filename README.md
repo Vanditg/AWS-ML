@@ -8,3 +8,10 @@ Notebooks - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/Software_
 # Software Engineering Practices Pt - 2
 Quiz - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/Software_Engineering_Practice_Pt_2/Quiz)  
 PyTest Python test files - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/Software_Engineering_Practice_Pt_2/PyTest)  
+
+# Introduction_to_OOP  
+Quiz - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/Introduction_to_OOP/Quiz)  
+Notebooks - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/Introduction_to_OOP/Notebooks)  
+
+# Machine Learning with AWS DeepComposer  
+Quiz - Click [Here](https://github.com/Vanditg/AWS-ML/tree/master/ML_with_AWS_DeepComposer/Quiz)  

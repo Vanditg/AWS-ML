@@ -1,0 +1,12 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 5: ML with AWS DeepComposer
+## Year: 2020
+## Sub-lesson: Quiz Training Methodology 
+##===================================
+
+Question 1:
+What is a hyperparameter?
+
+Ans:
+- A parameter whose value is set before the training process begins. 
