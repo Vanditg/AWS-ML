@@ -1,0 +1,24 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 5: ML with AWS DeepComposer
+## Year: 2020
+## Sub-lesson: Quiz Why ML on AWS
+##===================================
+
+Question 1:
+How can Amazon SageMaker accelerate adoption of machine learning?
+
+Ans:
+SageMaker enables developers to quickly build ML. 
+
+Question 2:
+Match the parts of the AWS ML Stack
+
+ Tool							Category
+- Amazon Personalize			AI Service 
+- Amazon SageMaker				ML Service
+- TensorFlow					ML Framework
+- SageMaker Ground Truth		ML Service
+- PyTorch						ML Framework
+- Amazon Rekognition Image		AI Service
+- Keras							ML Interface

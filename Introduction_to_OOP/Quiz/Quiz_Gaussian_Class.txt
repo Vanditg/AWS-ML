@@ -1,6 +1,6 @@
 ##==================================
 ## AWS Machine Learning Foundation Course
-## Lesson - 2: Introduction to OOP
+## Lesson - 4: Introduction to OOP
 ## Year: 2020
 ## Sub-lesson: Quiz Gaussian Class
 ##===================================
