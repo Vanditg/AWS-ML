@@ -1,0 +1,13 @@
+##==================================
+## AWS Machine Learning Foundation Course
+## Lesson - 5: ML with AWS DeepComposer
+## Year: 2020
+## Sub-lesson: Quiz Generative AI Overview
+##===================================
+
+Question 1:
+Please identify which of the following statements are TRUE about a Generative Adverserial Network (GAN).
+
+Ans:
+- The generator and discriminator are occuring asynchronously. 
+- The generator is learning to produce more realistic data and the discriminator is learning to differentiate real data from the newly created data.
